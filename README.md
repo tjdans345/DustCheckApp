@@ -1,6 +1,8 @@
 # dustcheckapp
 
-미세먼지 확인 어플
+미세먼지 확인 어플 (By moon)
+
+![image](https://user-images.githubusercontent.com/66935282/122140253-c4a43480-ce85-11eb-8af0-d34ef27c9698.png)
 
 ## Getting Started
 
